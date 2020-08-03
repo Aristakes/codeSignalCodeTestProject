@@ -7,7 +7,9 @@ public class SortByHeight {
     public static void main(String[] args) {
 
 
-        int[] testBubbleSortArray = {3, 1, 7, 8, 12, 0, 5};
+        int[] testBubbleSortArray = {-1, 150, 190, 170, -1, -1, 160, 180};
+        sortByHeight(testBubbleSortArray);
+        printArray(testBubbleSortArray);
 
 
 
