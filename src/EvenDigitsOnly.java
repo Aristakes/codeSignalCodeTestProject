@@ -17,7 +17,7 @@ public class EvenDigitsOnly {
     }
 
 
-    // add a more line chek last index %2 == 1 and return false 
+    // add a more line chek last index %2 == 1 and return false
 
     static boolean evenDigitsOnly(int n) {
 
